@@ -1,3 +1,3 @@
-# template-playground
+# tsdx-playground
 
-This repository it's used to learn, test, and play around with Any technology
+This repository it's used to learn, test, and play around with tsdx

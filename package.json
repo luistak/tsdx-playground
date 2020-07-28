@@ -1,0 +1,14 @@
+{
+  "name": "template-playground",
+  "version": "1.0.0",
+  "description": "This is a template repository to create a learning playground",
+  "repository": "https://github.com/luistak/template-playground.git",
+  "author": "Luis Takahashi <luis.takahashi@ifood.com.br>",
+  "license": "MIT",
+  "scripts": {
+    "postinstall": "lerna bootstrap"
+  },
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}
